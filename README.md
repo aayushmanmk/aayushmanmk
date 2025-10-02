@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aayushmanmk
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning bash, perl and c
+- 🌱 I’m currently learning bash, perl, java and c
 - 💞️ I’m looking to collaborate on anything related to my repositories
 
 <!---
